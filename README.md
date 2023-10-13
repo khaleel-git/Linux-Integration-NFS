@@ -57,12 +57,7 @@ Use scripts/nfs-client-mount.sh to mount NFS shares on the client.
 ```
 Unmounting NFS Shares on Client:
 Use scripts/nfs-client-unmount.sh to unmount NFS shares on the client.
-## Documentation
-Usage Guide: Detailed instructions on how to use the provided scripts.
-Configuration: Information on configuring NFS server and client settings.
-### Examples
-(1) exports: Example NFS exports file.
-(2) nfs-client-mountpoints: Example client mount points.
+
 ## License
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 ### Contact
