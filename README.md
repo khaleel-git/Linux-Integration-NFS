@@ -1,6 +1,7 @@
 # Linux Integration (NFS)
 
 ## Project Structure
+```
 Linux-Integration-NFS/
 ├── README.md
 ├── scripts/
@@ -16,7 +17,7 @@ Linux-Integration-NFS/
 │   ├── nfs-client-mountpoints
 ├── LICENSE
 ├── .gitignore
-
+```
 This project provides a set of scripts and documentation for setting up and configuring NFS (Network File System) on a Linux system. NFS is a distributed file system protocol that allows you to share files and directories among multiple Linux systems over a network.
 
 ## Table of Contents
